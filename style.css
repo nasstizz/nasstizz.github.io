@@ -63,6 +63,14 @@ iframe {
 	background:url('/img/ctwitch.png') no-repeat -70px 0px;
 	background-size: cover;
 }
+.dis{
+	background:url('/img/cdis.png') no-repeat 0px 0px;
+	background-size: cover;
+}
+.dis:hover{
+	background:url('/img/cdis.png') no-repeat -70px 0px;
+	background-size: cover;
+}
 .links{
     position: fixed;
     padding: 0.5em;
